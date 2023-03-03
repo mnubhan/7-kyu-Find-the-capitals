@@ -1,0 +1,1 @@
+# 7-kyu-Find-the-capitals
